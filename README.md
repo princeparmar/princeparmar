@@ -1,10 +1,6 @@
 # Senior Golang Developer
 #### FREELANCER | Catalyst for Growth at MakeMyTrip & Future Group | Crafting Success in Code 💻 🚀
 
-<div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D4D22AQEt2xuNxs5QTg/feedshare-shrink_800/0/1699427427981?e=1707350400&v=beta&t=WLwryUhzINmDFdknhck-OAvoW0kkC2j0bVP5wEbe9iA" width="500"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pradip-parmar-665b30112/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
