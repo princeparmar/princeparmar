@@ -1,6 +1,10 @@
 # Senior Golang Developer
 #### FREELANCER | Catalyst for Growth at MakeMyTrip & Future Group | Crafting Success in Code 💻 🚀
 
+<div align="center">
+  ![Smart byte lab logo all](https://github.com/user-attachments/assets/342e0a78-9001-4ab0-9b3c-68624e8d0655)
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pradip-parmar-665b30112/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
